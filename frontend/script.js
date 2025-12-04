@@ -1,4 +1,4 @@
-const API_BASE_URL = "http://localhost:4000";
+const API_BASE_URL = "https://trabajo-dsi3.onrender.com/";
   const btn = document.getElementById("btn-llamar-api");
   const salida = document.getElementById("respuesta");
 
